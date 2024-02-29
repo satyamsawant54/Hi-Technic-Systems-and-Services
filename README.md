@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/satyamsawant54/Hi-Technic-Systems-and-Services).
+GitHub - (https://github.com/satyamsawant54/Hi-Technic-Systems-and-Services).
 
 ## Available Scripts
 
