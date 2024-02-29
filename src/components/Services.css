@@ -1,0 +1,13 @@
+.services-section {
+  height: 222px;
+  /* margin: 40px; */
+  /* padding: 5px; */
+  margin-top: 10px;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* border: 1px solid gainsboro; */
+}
+
+.services-section:hover {
+  transform: scale(1.2);
+}
